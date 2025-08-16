@@ -17,6 +17,7 @@ The command line parameters [default value] are:
 ![Droplets and vase rendered in OpenSCAD](./dripping_droplet.png)
 
 The sample parameters for the objects shown are, respectively, from top to bottom:
+
 	0 46.5 64
 	0 52 64
 	0 999 64
